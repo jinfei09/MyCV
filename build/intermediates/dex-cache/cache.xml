@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/arika/Study/Android/day17/MyCV/app/libs/BmobSDK_V3.4.5_1111.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44e559d18fd5a4826b0a4c0354308213e4f658a2">
+        <dex dex="/Users/arika/Study/Android/day17/MyCV/app/build/intermediates/pre-dexed/debug/BmobSDK_V3.4.5_1111-70ed35de123215fb2e6c772b36183b75572d1141.jar" />
+    </item>
+    <item
+        jar="/Users/arika/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/arika/Study/Android/day17/MyCV/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-6d28a53f625d04f09b69b9da9e83bade6f1bb9f1.jar" />
+    </item>
+
+</items>
